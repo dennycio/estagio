@@ -1,5 +1,6 @@
 Sistema desenvolvido no habito de estagio de sistemas
 
+metodologia kanban
 Foram aplicados os seguintes topicos:
 autenticacao 2F
 auditoria(logs de acesso)
